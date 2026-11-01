@@ -1,84 +1,118 @@
-<div align="center">
 
-# Rohan Prajapat
+<!-- Profile README for github.com/rohanprajapat25 -->
 
-### <span style="color:#A78BFA;">Machine Learning Practitioner</span>
+<h1 align="center">Hi, I'm Rohan Prajapat 👋</h1>
 
-<a href="https://linkedin.com/in/rohan-prajapat-57b086300">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<h3 align="center">Data Analyst | Machine Learning Practitioner | B.Tech CSE Student</h3>
 
-<a href="https://github.com/rohanprajapat25">
-  <img src="https://img.shields.io/badge/GitHub-rohanprajapat25-22D3EE?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
+<p align="center">
+  Turning raw data into useful insights and machine learning ideas into practical applications.
+</p>
 
-</div>
-
----
-
-## 👋 About Me
-
-I'm a final-year Computer Science & Engineering student and machine learning practitioner who enjoys the full journey from raw, messy data to a trained and tuned model. I care about clean pipelines, sound evaluation, and code that is easy to read and maintain.
-
-- 🎓 Final-year B.Tech. Computer Science & Engineering
-- 🔍 Focused on building and evaluating ML models end to end
-- 📊 Turning data into clear, decision-ready insights
-- 🚀 Currently seeking opportunities in Data Science and Machine Learning
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohan-prajapat-57b086300/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rohanprajapat25">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 👨‍💻 About Me
 
-<div align="center">
+I'm a Computer Science and Engineering student interested in **data analytics, machine learning, and solving practical problems with data**. I enjoy the process of exploring datasets, cleaning and transforming information, building models, and communicating findings through clear visualizations.
 
-![Python](https://img.shields.io/badge/PYTHON-A78BFA?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-22D3EE?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F472B6?style=flat-square&logo=git&logoColor=white)
+- 🎓 B.Tech in Computer Science & Engineering
+- 📊 Interested in Data Analytics, Exploratory Data Analysis (EDA), and Business Intelligence
+- 🤖 Learning and building with Machine Learning and Python
+- 🧩 Practising problem-solving and Data Structures & Algorithms
+- 🚀 Building hands-on projects and improving them through practical work
 
-![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-8B5CF6?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-06B6D4?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-E879F9?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/POWER%20BI-67E8F9?style=flat-square&logo=powerbi&logoColor=111827)
+---
 
-</div>
+## 🧰 Tech Stack & Tools
+
+### Programming & Databases
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data Analytics & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Machine Learning & Development Tools
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🎯 Core Competencies
 
-| 🤖 Machine Learning | 🛠️ Data Engineering | 💻 Computer Science |
-|:---:|:---:|:---:|
-| Model Training | ETL Pipelines | Data Structures & Algorithms |
-| Hyperparameter Tuning | Exploratory Data Analysis (EDA) | Object-Oriented Programming |
+| 📊 Data Analytics | 🤖 Machine Learning | 💻 Computer Science |
+|:---|:---|:---|
+| Data cleaning & preparation | Regression & classification | Python programming |
+| Exploratory data analysis | Content-based recommendation | SQL & database queries |
+| Data visualization | Model training & evaluation | Data Structures & Algorithms |
+| Power BI dashboards | Scikit-learn workflows | Git & GitHub |
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 [Movie Recommendation System](https://github.com/rohanprajapat25/movie-recommender)
+
+A machine learning project that recommends movies using **content-based filtering** and a precomputed similarity matrix. Built with Python and Streamlit, with TMDB API integration for fetching movie posters.
+
+**Tools:** Python · Pandas · Scikit-learn · Streamlit · TMDB API · Git LFS
+
+### 📊 [HR Analytics Dashboard](https://github.com/rohanprajapat25/HR-Analytics-Dashboard)
+
+An interactive Power BI dashboard exploring workforce demographics, employee attrition, job satisfaction, education fields, and years of service through KPIs and visualizations.
+
+**Tools:** Power BI · Data Visualization · HR Analytics
+
+### 🧠 [NeetCode Submissions](https://github.com/rohanprajapat25/neetcode-submissions)
+
+A collection of coding-problem submissions synced from NeetCode, organised to support consistent practice in Data Structures and Algorithms.
+
+**Focus:** Problem Solving · Data Structures · Algorithms · Python
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohanprajapat25&show_icons=true&hide_border=true&theme=tokyonight" alt="Rohan's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanprajapat25&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</p>
 
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanprajapat25&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=CBD5E1&bg_color=0B1120" alt="Top Languages">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rohanprajapat25&show_icons=true&hide_border=true&theme=tokyonight&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&bg_color=0B1120" alt="Rohan's GitHub Stats">
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanprajapat25&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
+I'm always interested in connecting with people working in data analytics, machine learning, and software development.
 
-<a href="https://linkedin.com/in/rohan-prajapat-57b086300">
-  <img src="https://img.shields.io/badge/LINKEDIN-ROHAN%20PRAJAPAT-A78BFA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+- 💼 **LinkedIn:** [linkedin.com/in/rohan-prajapat-57b086300](https://www.linkedin.com/in/rohan-prajapat-57b086300/)
+- 🐙 **GitHub:** [github.com/rohanprajapat25](https://github.com/rohanprajapat25)
 
-<a href="https://github.com/rohanprajapat25">
-  <img src="https://img.shields.io/badge/GITHUB-ROHANPRAJAPAT25-22D3EE?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
+<p align="center">
+  <i>“Learning by building, improving through consistency.”</i>
+</p>
